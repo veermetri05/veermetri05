@@ -14,11 +14,6 @@ My work spans systems programming, full-stack development, animation pipelines, 
 - Created an **online plugin repository** for publishing, hosting, and managing community plugins
 - Improved the project’s extensibility with a clean, maintainable architecture
 
-### 🎥 Low-Level Video Engineering
-- Building an **H.264-like encoder from scratch in C++**
-- Implementing manual **MP4 muxing without libraries**
-- Focused on understanding compression, bitstream design, and container formats at a fundamental level
-
 ### 🌐 Web Development
 - Confident in **HTML, CSS, JavaScript, Tailwind, Git**
 - Currently learning **React**, building full-stack projects, and preparing for placements
@@ -26,7 +21,7 @@ My work spans systems programming, full-stack development, animation pipelines, 
 
 ### 🧠 Systems & Problem Solving
 - Love exploring first-principles thinking
-- Implementing beginner-to-intermediate **50+ number-based programming problems in Java**
+- Implementing beginner-to-intermediate **400+ programming problems on Leetcode**
 - Work involves C++, multithreading, GIO, GTKmm, and performance-oriented design
 
 ---
@@ -35,13 +30,12 @@ My work spans systems programming, full-stack development, animation pipelines, 
 - Mastering React + modern full-stack workflows  
 - Strengthening DSA + system design for interviews  
 - Creating powerful tools that blend **engineering + creativity**  
-- Preparing for a remote software role (~₹15 LPA / $20k+)  
-- Ankifying everything and using Logseq for deeper learning
+- Using spaced repetition to strength knowledge.
 
 ---
 
 ## 🧩 Interests
-- Blockchain & Web3  
+- C++ Development  
 - Animations & digital tools  
 - Building meaningful software  
 - Philosophical discussions  
@@ -51,15 +45,15 @@ My work spans systems programming, full-stack development, animation pipelines, 
 
 ## 📈 GitHub Stats
 
-![Veer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veer&show_icons=true&theme=default)
+![Veer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veermetri05&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veer&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veermetri05&layout=compact)
 
 ---
 
 ## 📫 Connect
-- **LinkedIn:** _Add your link here_  
-- **Portfolio:** _Add your site here_  
-- **Email:** _Add your email_  
+- **LinkedIn:** https://www.linkedin.com/in/veermetri05/
+- **Leetcode:** https://leetcode.com/u/veermetri05/
+- **Email:** veermetri05@gmail.com
 
 Let’s build something great.
